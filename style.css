@@ -1,0 +1,44 @@
+.carous {
+	height: 600px;
+}
+
+.intro {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+	background-image: url("https://i0.wp.com/shweed.com/wp-content/uploads/2020/03/Shweed-website-footer-background-copy.png?ssl=1");
+	height: 300px;
+	padding: 3%;
+}
+
+.room {
+	display: flex;
+	justify-content: space-around;
+}
+
+.title-room {
+	text-align: center;
+	margin-bottom: 2%;
+}
+
+.contact {
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+
+.contact h1 {
+	text-align: center;
+}
+
+.forms {
+	background-color: rgb(184, 183, 183);
+	margin: 2% 15%;
+	padding: 3%;
+	border-radius: 10px;
+}
+
+.footer {
+	background-color: gray;
+	padding: 3%;
+	text-align: center;
+}
